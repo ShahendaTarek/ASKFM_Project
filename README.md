@@ -1,0 +1,2 @@
+# ASKFM_Project
+This project is a simulation of the ASKFM project,where I applied some OOP concepts usint C++ langauage
