@@ -1,0 +1,3 @@
+C:/Users/elmenshawy/Downloads/my_github/ASKFM_Project/askfm/cmake-build-debug/CMakeFiles/askfm.dir
+C:/Users/elmenshawy/Downloads/my_github/ASKFM_Project/askfm/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/elmenshawy/Downloads/my_github/ASKFM_Project/askfm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
