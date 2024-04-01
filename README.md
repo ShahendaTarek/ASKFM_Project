@@ -27,4 +27,4 @@ This project is a simulation of the ASKFM project,where I applied some OOP conce
  * after that,a menu with some options will be displayed,you can choose one option of them .
  * Notic your user name and your ID should be unique.
 # Project's design:
-[design](C:/Users/elmenshawy\Downloads/my_github/ASKFM_Project/askfm/main/assets/images/electrocat.jpg)
+[design](C:\Users\elmenshawy\Downloads\my_github\ASKFM_Project\askfm\main\assets\images\electrocat.jpg)
