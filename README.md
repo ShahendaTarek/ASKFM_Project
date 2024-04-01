@@ -13,12 +13,11 @@ This project is a simulation of the ASKFM project,where I applied some OOP conce
   * Show answers I responded.
   * View responeses which send to me.
 # The Methods I used:
-  *Structures.
-  
-  *Classes.
-  *Inheritance.
-  *Exception Handling .
-  *Files.
-  *Aggregation.
-  *Abstract class .
+  * Structures.
+  * Classes.
+  * Inheritance.
+  * Exception Handling .
+  * Files.
+  * Aggregation.
+  * Abstract class .
   
