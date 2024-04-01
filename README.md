@@ -14,6 +14,7 @@ This project is a simulation of the ASKFM project,where I applied some OOP conce
   * View responeses which send to me.
 # The Methods I used:
   *Structures.
+  
   *Classes.
   *Inheritance.
   *Exception Handling .
