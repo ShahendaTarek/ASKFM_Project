@@ -23,5 +23,5 @@ This project is a simulation of the ASKFM project,where I applied some OOP conce
 * Code:[link]
 # How to use project:
  * first you can Sign in if you have account else you have to Sign Up.
- *after that,a menu with some options will be displayed,you can choose one option of them .
+ * after that,a menu with some options will be displayed,you can choose one option of them .
  * Notic your user name and your ID should be unique.
