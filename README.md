@@ -28,5 +28,3 @@ This project is a simulation of the ASKFM project,where I applied some OOP conce
  * Code running:  [demo](https://drive.google.com/file/d/1FM_N_pX9wnc-C_aYmL_fM-59Zl96QFPg/view?usp=drivesdk)
 # Project's Design:
 ![askfm](https://github.com/ShahendaTarek/ASKFM_Project/assets/165484220/a3d2264d-00f9-493e-893c-0bcc5e97e2c2)
-
-[ Design](https://ibb.co/GFTSWW8)
