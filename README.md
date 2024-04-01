@@ -1,6 +1,6 @@
 # ASKFM_Project
 # Overview:
-This project is a simulation of the ASKFM project,where I applied some OOP concepts usint C++ langauage
+This project is a simulation of the ASKFM project,where I applied some OOP concepts using C++ langauage
 
 # Project Features:
   * Sign Up or Sign In .
