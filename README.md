@@ -27,4 +27,4 @@ This project is a simulation of the ASKFM project,where I applied some OOP conce
  * Notic your user name and your ID should be unique.
  * Code running:  [demo](https://drive.google.com/file/d/1FM_N_pX9wnc-C_aYmL_fM-59Zl96QFPg/view?usp=drivesdk)
 # Project's Design:
-[design](C:\Users\elmenshawy\Downloads\my_github\ASKFM_Project\askfm\assets)
+[ Design](https://ibb.co/GFTSWW8)
