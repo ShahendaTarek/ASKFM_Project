@@ -706,18 +706,17 @@ public:
         if(checkexist()==1)
         {
             cout << "1 : Ask Question" << endl
-                                          "2 : Answer Question " << endl
-                                                                    "3 : print questions to me " << endl
-                                                                                                    "4 : print questions from me "<< endl
-                                                                                                                                     "5 : Delete question " << endl
-                                                                                                                                                               "6 : Edit question " << endl
-                                                                                                                                                                                       "7 : List users " << endl
-                                                                                                                                                                                                            "8 : show Feed" << endl
-                                                                                                                                                                                                                               "9 : print Answers to me"<<endl
-                                                                                                                                                                                                                                                          "10 : print Answers from me"<<endl
-                                                                                                                                                                                                                                                                                        "11 : Delete Answer"<<endl
-                                                                                                                                                                                                                                                                                                              "12 : Edit Answer"<<endl
-                                                                                                                                                                                                                                                                                                                                  "13 : Delete Account"<<endl;
+            "2 : Answer Question " << endl
+            "3 : print questions to me " << endl
+            "4 : print questions from me "<< endl
+            "5 : Delete question " << endl
+            "6 : Edit question " << endl
+            "7 : List users " << endl
+            "8 : show Feed" << endl
+            "9 : print Answers to me"<<endl
+            "10 : print Answers from me"<<endl
+            "11 : Delete Answer"<<endl
+            "13 : Delete Account"<<endl;
             cout << "Enter you choice" << endl;
         }
     }
